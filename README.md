@@ -5,7 +5,7 @@ P.A.S.-Fork is a modified version of the popular P.A.S. webshell tool, designed 
 ## Password
 Use the following password to access certain features:
 
-<div style="display:flex;align-items:center;gap:10px;margin-top:10px">
+<div style="display: flex; align-items: center; gap: 10px; margin-top: 10px;">
     <input type="text" value="R00t" id="password" readonly onclick="this.select(); document.execCommand('copy');" style="padding:10px;border:2px solid #4CAF50;border-radius:5px;font-size:16px;width:200px;background-color:#f9f9f9;color:#333;transition:background-color 0.3s,border-color .3s">
     <button onclick="document.getElementById('password').select(); document.execCommand('copy');" style="padding:10px 15px;background-color:#4CAF50;color:#fff;border:none;border-radius:5px;cursor:pointer;transition:background-color .3s">Copy</button>
 </div>
@@ -16,9 +16,7 @@ Use the following password to access certain features:
 
 This version improves on the original P.A.S. webshell by adding enhanced stealth and obfuscation techniques, making it a useful tool for advanced security assessments.
 
-<div style="background-color: #222; padding: 10px; border-radius: 5px;">
-    ⚠️ <strong>Important:</strong> This tool is for educational and testing purposes only. Use it responsibly and only on systems for which you have authorized access.
-</div>
+> ⚠️ **Important**: This tool is for educational and testing purposes only. Use it responsibly and only on systems for which you have authorized access.
 
 ## Features of P.A.S.-Fork
 
@@ -41,6 +39,4 @@ To get started with P.A.S.-Fork, follow these steps:
 
 ## Educational Use Only
 
-<div style="background-color: #222; padding: 10px; border-radius: 5px;">
-    📘 <strong>Note:</strong> This tool should only be used in authorized environments for educational or testing purposes. Unauthorized access to systems is illegal.
-</div>
+> 📘 **Note**: This tool should only be used in authorized environments for educational or testing purposes. Unauthorized access to systems is illegal.
