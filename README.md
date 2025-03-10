@@ -207,6 +207,28 @@ To get started with P.A.S.-Fork, follow these steps:
 > Always make sure to remove all HttpOnly cookies for the domain before starting the tool.
 
 ![P.A.S.-Fork Shell Backdoor](https://i.imgur.com/VHV2iGQ.jpeg "P.A.S.-Fork Shell Backdoor")
+Screenshots
+===========
+
+**Code Editor:**
+  
+![dark mode](https://i.imgur.com/gAZkFMT.png)
+
+**Dark mode:**
+
+![dark mode](https://i.imgur.com/2mO7MLS.png)
+
+**"ls -la;cat /etc/passwd"**:
+
+* Request:
+
+![request](https://i.imgur.com/24yso3q.png)
+
+* Response:
+
+![response](https://i.imgur.com/dfg880h.png)
+  
+<br/>
 
 ## Educational Use Only
 
