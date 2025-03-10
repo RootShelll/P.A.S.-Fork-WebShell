@@ -6,10 +6,12 @@ P.A.S.-Fork is a modified version of the popular P.A.S. webshell tool, designed 
 Use the following password to access certain features:
 
 <div style="display: flex; align-items: center; gap: 10px; margin-top: 10px;">
-    <input type="text" value="R00t" id="password" readonly onclick="this.select(); document.execCommand('copy');" style="padding:10px;border:2px solid #4CAF50;border-radius:5px;font-size:16px;width:200px;background-color:#f9f9f9;color:#333;transition:background-color 0.3s,border-color .3s">
+    <input type="text" value="" id="password" readonly onclick="this.select(); document.execCommand('copy');" style="padding:10px;border:2px solid #4CAF50;border-radius:5px;font-size:16px;width:200px;background-color:#f9f9f9;color:#333;transition:background-color 0.3s,border-color .3s">
     <button onclick="document.getElementById('password').select(); document.execCommand('copy');" style="padding:10px 15px;background-color:#4CAF50;color:#fff;border:none;border-radius:5px;cursor:pointer;transition:background-color .3s">Copy</button>
 </div>
-
+```bash
+R00t
+```
 ## What is P.A.S.-Fork?
 
 **P.A.S.-Fork** is a tool used for penetration testing, designed to remain undetected by WAFs and IDSs. It helps security professionals assess vulnerabilities without triggering defensive measures that could disrupt testing.
